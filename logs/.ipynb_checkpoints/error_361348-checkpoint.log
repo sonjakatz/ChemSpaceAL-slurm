@@ -1,0 +1,2 @@
+  0%|          | 0/1 [00:00<?, ?it/s]epoch 1 iter 0: train loss 3.05687. lr 3.000000e-06:   0%|          | 0/1 [00:00<?, ?it/s]epoch 1 iter 0: train loss 3.05687. lr 3.000000e-06: 100%|██████████| 1/1 [00:00<00:00,  1.46it/s]epoch 1 iter 0: train loss 3.05687. lr 3.000000e-06: 100%|██████████| 1/1 [00:00<00:00,  1.46it/s]
+python: can't open file '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/01_initialiseConfig.py': [Errno 2] No such file or directory

@@ -1,0 +1,286 @@
+--2024-07-11 11:56:06--  https://files.rcsb.org/download/6O56.pdb
+Resolving files.rcsb.org (files.rcsb.org)... 128.6.159.245
+Connecting to files.rcsb.org (files.rcsb.org)|128.6.159.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘../results/fullIter_3/4_Scoring/binding_targets/6O56.pdb’
+
+     0K .......... .......... .......... .......... ..........  266K
+    50K .......... .......... .......... .......... ..........  536K
+   100K .......... .......... .......... .......... .......... 46.7M
+   150K .......... .......... .......... .......... ..........  538K
+   200K .......... .......... .....                            40.5M=0.4s
+
+2024-07-11 11:56:07 (599 KB/s) - ‘../results/fullIter_3/4_Scoring/binding_targets/6O56.pdb’ saved [230445]
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 32 85.3M   32 27.7M    0     0  55.0M      0  0:00:01 --:--:--  0:00:01 55.0M100 85.3M  100 85.3M    0     0  90.3M      0 --:--:-- --:--:-- --:--:-- 90.3M
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 4589k  100 4589k    0     0  22.3M      0 --:--:-- --:--:-- --:--:-- 22.4M
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1357  100  1357    0     0   5629      0 --:--:-- --:--:-- --:--:--  5654
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 24.9M  100 24.9M    0     0  68.7M      0 --:--:-- --:--:-- --:--:-- 68.8M
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  208k  100  208k    0     0   995k      0 --:--:-- --:--:-- --:--:--  996k
+0it [00:00, ?it/s]1it [00:01,  1.75s/it]Generated 0 unique canonical smiles that pass filters: : 1it [00:01,  1.75s/it]Generated 1 unique canonical smiles that pass filters: : 2it [00:01,  1.75s/it]Generated 2 unique canonical smiles that pass filters: : 3it [00:01,  1.75s/it]Generated 3 unique canonical smiles that pass filters: : 4it [00:01,  1.75s/it]Generated 4 unique canonical smiles that pass filters: : 5it [00:01,  1.75s/it]Generated 5 unique canonical smiles that pass filters: : 6it [00:01,  1.75s/it]Generated 6 unique canonical smiles that pass filters: : 7it [00:01,  1.75s/it]Generated 7 unique canonical smiles that pass filters: : 8it [00:01,  1.75s/it]Generated 8 unique canonical smiles that pass filters: : 9it [00:01,  1.75s/it]Generated 9 unique canonical smiles that pass filters: : 10it [00:01,  1.75s/it]Generated 10 unique canonical smiles that pass filters: : 11it [00:01,  1.75s/it]Generated 11 unique canonical smiles that pass filters: : 12it [00:01,  1.75s/it]Generated 12 unique canonical smiles that pass filters: : 13it [00:01,  1.75s/it]Generated 13 unique canonical smiles that pass filters: : 14it [00:01,  1.75s/it]Generated 14 unique canonical smiles that pass filters: : 15it [00:01,  1.75s/it]Generated 15 unique canonical smiles that pass filters: : 16it [00:01,  1.75s/it]Generated 16 unique canonical smiles that pass filters: : 17it [00:01,  1.75s/it]Generated 17 unique canonical smiles that pass filters: : 18it [00:01,  1.75s/it]Generated 18 unique canonical smiles that pass filters: : 19it [00:01,  1.75s/it]Generated 19 unique canonical smiles that pass filters: : 20it [00:01,  1.75s/it]Generated 20 unique canonical smiles that pass filters: : 21it [00:01,  1.75s/it]Generated 20 unique canonical smiles that pass filters: : 22it [00:01, 16.38it/s]Generated 21 unique canonical smiles that pass filters: : 22it [00:01, 16.38it/s]Generated 22 unique canonical smiles that pass filters: : 23it [00:01, 16.38it/s]Generated 23 unique canonical smiles that pass filters: : 24it [00:01, 16.38it/s]Generated 24 unique canonical smiles that pass filters: : 25it [00:01, 16.38it/s]Generated 25 unique canonical smiles that pass filters: : 26it [00:01, 16.38it/s]Generated 26 unique canonical smiles that pass filters: : 27it [00:01, 16.38it/s]Generated 27 unique canonical smiles that pass filters: : 28it [00:01, 16.38it/s]Generated 28 unique canonical smiles that pass filters: : 29it [00:01, 16.38it/s]Generated 29 unique canonical smiles that pass filters: : 30it [00:01, 16.38it/s]Generated 29 unique canonical smiles that pass filters: : 30it [00:01, 15.62it/s]
+  0%|          | 0/64 [00:00<?, ?it/s]100%|██████████| 64/64 [00:00<00:00, 2144.96it/s]
+  0%|          | 0/30 [00:00<?, ?it/s][11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+ 33%|███▎      | 10/30 [00:00<00:00, 84.13it/s][11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+ 63%|██████▎   | 19/30 [00:00<00:00, 85.54it/s][11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+[11:56:28] DEPRECATION WARNING: please use MorganGenerator
+100%|██████████| 30/30 [00:00<00:00, 93.55it/s]100%|██████████| 30/30 [00:00<00:00, 91.13it/s]
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/sklearn/base.py:376: InconsistentVersionWarning: Trying to unpickle estimator StandardScaler from version 1.2.2 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/sklearn/base.py:376: InconsistentVersionWarning: Trying to unpickle estimator PCA from version 1.2.2 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 33.26it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  9.99it/s]100%|██████████| 1/1 [00:00<00:00,  9.98it/s]
+loading complexes:   0%|          | 0/1 [00:00<?, ?it/s]loading complexes: 100%|██████████| 1/1 [00:00<00:00,  4.72it/s]loading complexes: 100%|██████████| 1/1 [00:00<00:00,  4.72it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 10.58it/s]
+loading complexes:   0%|          | 0/1 [00:00<?, ?it/s]loading complexes: 100%|██████████| 1/1 [00:00<00:00,  4.78it/s]loading complexes: 100%|██████████| 1/1 [00:00<00:00,  4.77it/s]
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/torch/jit/_check.py:177: UserWarning: The TorchScript type system doesn't support instance-level annotations on empty non-base types in `__init__`. Instead, either 1) use a type annotation in the class body, or 2) wrap the type in `torch.jit.Attribute`.
+  warnings.warn(
+0it [00:00, ?it/s]1it [00:29, 29.59s/it]1it [00:29, 29.59s/it]
+100%|██████████| 1/1 [01:09<00:00, 69.27s/it]100%|██████████| 1/1 [01:09<00:00, 69.27s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.26s/it]100%|██████████| 1/1 [00:01<00:00,  1.26s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]epoch 1 iter 0: train loss 3.04676. lr 3.000000e-06:   0%|          | 0/1 [00:00<?, ?it/s]epoch 1 iter 0: train loss 3.04676. lr 3.000000e-06: 100%|██████████| 1/1 [00:00<00:00,  1.62it/s]epoch 1 iter 0: train loss 3.04676. lr 3.000000e-06: 100%|██████████| 1/1 [00:00<00:00,  1.62it/s]

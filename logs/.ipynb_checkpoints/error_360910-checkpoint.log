@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL_slurm/scripts/41_docking_scoring_iter.py", line 16, in <module>
+    from Docking_v2 import get_top_poses
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL_slurm/scripts/Docking_v2.py", line 42, in <module>
+    raise ImportError(message)
+ImportError: Please don't forget to install DiffDock by:
+    1. Creating a new temprorary `DiffDock` folder
+    2. Running `git clone https://github.com/gcorso/DiffDock.git`
+    3. Enter `DiffDock` and run `git checkout a6c5275` (you can update this for a more up to date code)

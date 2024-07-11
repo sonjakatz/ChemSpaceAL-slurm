@@ -1,0 +1,67 @@
+python: can't open file '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/01_initaliseConfig.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/20_generateSmiles.py", line 17, in <module>
+    Generation.generate_smiles(config) # this runs generation of SMILES
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/ChemSpaceAL/Generation.py", line 88, in generate_smiles
+    dataset.load_desc_attributes(mconf.generation_params["desc_path"])
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/ChemSpaceAL/Dataset.py", line 74, in load_desc_attributes
+    with open(load_path, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL_slurm/results/fullIter/1_Pretraining/datasets_descriptors/combined_train.yaml'
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/30_sampling.py", line 18, in <module>
+    Sampling.calculate_descriptors(config)
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/ChemSpaceAL/Sampling.py", line 42, in calculate_descriptors
+    smiles_set = set(pd.read_csv(smiles_fname)["smiles"])
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 950, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL_slurm/results/fullIter/2_Generation/model7_al0_ch1_filtered_smiles.csv'
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/41_docking_scoring_iter.py", line 33, in <module>
+    get_top_poses(
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/Docking_v2.py", line 58, in get_top_poses
+    data = pd.read_csv(ligands_csv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 950, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL_slurm/results/fullIter/4_Scoring/sampled_mols/model7_al0_ch1_sampled3.csv'

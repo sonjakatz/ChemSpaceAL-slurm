@@ -1,0 +1,147 @@
+env_chemspace_slurm_v2
+--- The following previously scored molecules were set:
+--- The following previously constructed Active Learning sets were set:
+--- The following training parameters were set:
+    number of epochs: 30
+    learning rate: 0.0003
+    learning warmup enabled? True
+    model weights will be saved to:               1_Pretraining/model_weights/model7_al0_ch1.pt                                   
+    dataset descriptors will be loaded from:      1_Pretraining/datasets_descriptors/combined_train.yaml                          
+  . note: wandb_project_name and wandb_runname were not provided, you can ignore this message if you don't plan to log runs to wandb
+--- The following generation parameters were set:
+    target number: 1 unique canonical smiles that pass filters
+    batch size: 64 & temperature: 1.0
+    the following filters will be applied: ADMET+FGs
+    model weights will be loaded from:            1_Pretraining/model_weights/model7_al0_ch1.pt                                   
+    dataset descriptors will be loaded from:      1_Pretraining/datasets_descriptors/combined_train.yaml                          
+    generated completions will be saved to:       2_Generation/model7_al0_ch1_completions.csv                                     
+    unique canonic smiles will be saved to:       2_Generation/model7_al0_ch1_unique_smiles.csv                                   
+    generation metrics will be saved to:          2_Generation/model7_al0_ch1_metrics.txt                                         
+    filtered molecules will be saved to:          2_Generation/model7_al0_ch1_filtered_smiles.csv                                 
+    The following ADMET filters will be enforced:
+    |    MW in range [100, 600]
+    |    nHA in range [0, 12]
+    |    nHD in range [0, 7]
+    |    nRot in range [0, 11]
+    |    nRing in range [0, 6]
+    |    nHet in range [1, 15]
+    |    fChar in range [-4, 4]
+    |    TPSA in range [0, 140]
+    |    logP in range [-0.4, 6.5]
+    The following functional groups will be restricted:
+    |    fr_azide, fr_isocyan, fr_isothiocyan, fr_nitro, fr_nitro_arom,
+    |    fr_nitro_arom_nonortho, fr_nitroso, fr_phos_acid, fr_phos_ester,
+    |    fr_sulfonamd, fr_sulfone, fr_term_acetylene, fr_thiocyan,
+    |    fr_prisulfonamd, fr_C_S, fr_azo, fr_diazo, fr_epoxide, fr_ester,
+    |    fr_COO2, fr_Imine, fr_N_O, fr_SH, fr_aldehyde, fr_dihydropyridine,
+    |    fr_hdrzine, fr_hdrzone, fr_ketone, fr_thiophene, fr_phenol
+--- The following sampling parameters were set:
+    number of clusters: 1
+    samples per cluster: 1
+    descriptors mode: mix
+    descriptors will be saved to:                      3_Sampling/generations_descriptors/model7_al0_ch1.pkl                           
+    PCA will be loaded from:                           3_Sampling/pca_weights/scaler_pca_combined_n120.pkl                             
+    KMeans Objects will be saved to:                   3_Sampling/kmeans_objects/model7_al0_ch1_k1.pkl                                 
+    cluster to molecules mapping will be saved to:     3_Sampling/clusterings/model7_al0_ch1_cluster_to_mols.pkl                       
+    sampled molecules will be saved to:                4_Scoring/sampled_mols/model7_al0_ch1_sampled1.csv                              
+--- The following scoring parameters were set:
+    Reminder that docking poses will be written to 4_Scoring/binding_poses/                                                        
+    protein will be loaded from                   4_Scoring/binding_targets/6O56.pdb                                              
+    poses will be saved to                        4_Scoring/binding_poses/model7_al0_ch1/                                         
+    and scored molecules will be saved to         4_Scoring/scored_dataframes/model7_al0_ch1.csv                                  
+    The following prolif interaction weights will be used:
+    |    Hydrophobic: 2.5, HBDonor: 3.5, HBAcceptor: 3.5, Anionic: 7.5, Cationic: 7.5,
+    |    CationPi: 2.5, PiCation: 2.5, VdWContact: 1.0, XBAcceptor: 3.0,
+    |    XBDonor: 3.0, FaceToFace: 3.0, EdgeToFace: 1.0, MetalDonor: 3.0,
+    |    MetalAcceptor: 3.0
+Loaded 0 scored molecules
+0 generated molecules were already scored. Excluding them from sampling.
+2.2.1
+--- The following previously scored molecules were set:
+--- The following previously constructed Active Learning sets were set:
+--- The following training parameters were set:
+    number of epochs: 30
+    learning rate: 0.0003
+    learning warmup enabled? True
+    model weights will be saved to:               1_Pretraining/model_weights/model7_al0_ch1.pt                                   
+    dataset descriptors will be loaded from:      1_Pretraining/datasets_descriptors/combined_train.yaml                          
+  . note: wandb_project_name and wandb_runname were not provided, you can ignore this message if you don't plan to log runs to wandb
+--- The following generation parameters were set:
+    target number: 1 unique canonical smiles that pass filters
+    batch size: 64 & temperature: 1.0
+    the following filters will be applied: ADMET+FGs
+    model weights will be loaded from:            1_Pretraining/model_weights/model7_al0_ch1.pt                                   
+    dataset descriptors will be loaded from:      1_Pretraining/datasets_descriptors/combined_train.yaml                          
+    generated completions will be saved to:       2_Generation/model7_al0_ch1_completions.csv                                     
+    unique canonic smiles will be saved to:       2_Generation/model7_al0_ch1_unique_smiles.csv                                   
+    generation metrics will be saved to:          2_Generation/model7_al0_ch1_metrics.txt                                         
+    filtered molecules will be saved to:          2_Generation/model7_al0_ch1_filtered_smiles.csv                                 
+    The following ADMET filters will be enforced:
+    |    MW in range [100, 600]
+    |    nHA in range [0, 12]
+    |    nHD in range [0, 7]
+    |    nRot in range [0, 11]
+    |    nRing in range [0, 6]
+    |    nHet in range [1, 15]
+    |    fChar in range [-4, 4]
+    |    TPSA in range [0, 140]
+    |    logP in range [-0.4, 6.5]
+    The following functional groups will be restricted:
+    |    fr_azide, fr_isocyan, fr_isothiocyan, fr_nitro, fr_nitro_arom,
+    |    fr_nitro_arom_nonortho, fr_nitroso, fr_phos_acid, fr_phos_ester,
+    |    fr_sulfonamd, fr_sulfone, fr_term_acetylene, fr_thiocyan,
+    |    fr_prisulfonamd, fr_C_S, fr_azo, fr_diazo, fr_epoxide, fr_ester,
+    |    fr_COO2, fr_Imine, fr_N_O, fr_SH, fr_aldehyde, fr_dihydropyridine,
+    |    fr_hdrzine, fr_hdrzone, fr_ketone, fr_thiophene, fr_phenol
+--- The following sampling parameters were set:
+    number of clusters: 1
+    samples per cluster: 1
+    descriptors mode: mix
+    descriptors will be saved to:                      3_Sampling/generations_descriptors/model7_al0_ch1.pkl                           
+    PCA will be loaded from:                           3_Sampling/pca_weights/scaler_pca_combined_n120.pkl                             
+    KMeans Objects will be saved to:                   3_Sampling/kmeans_objects/model7_al0_ch1_k1.pkl                                 
+    cluster to molecules mapping will be saved to:     3_Sampling/clusterings/model7_al0_ch1_cluster_to_mols.pkl                       
+    sampled molecules will be saved to:                4_Scoring/sampled_mols/model7_al0_ch1_sampled1.csv                              
+--- The following scoring parameters were set:
+    Reminder that docking poses will be written to 4_Scoring/binding_poses/                                                        
+    protein will be loaded from                   4_Scoring/binding_targets/6O56.pdb                                              
+    poses will be saved to                        4_Scoring/binding_poses/model7_al0_ch1/                                         
+    and scored molecules will be saved to         4_Scoring/scored_dataframes/model7_al0_ch1.csv                                  
+    The following prolif interaction weights will be used:
+    |    Hydrophobic: 2.5, HBDonor: 3.5, HBAcceptor: 3.5, Anionic: 7.5, Cationic: 7.5,
+    |    CationPi: 2.5, PiCation: 2.5, VdWContact: 1.0, XBAcceptor: 3.0,
+    |    XBDonor: 3.0, FaceToFace: 3.0, EdgeToFace: 1.0, MetalDonor: 3.0,
+    |    MetalAcceptor: 3.0
+
+
+
+trying to get poses...
+/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts
+Transferred model to GPU
+Read data/prepared_for_esm.fasta with 2 sequences
+Processing 1 of 1 batches (2 sequences)
+Reading molecules and generating local structures with RDKit
+Reading language model embeddings.
+Generating graphs for ligands and proteins
+loading data from memory:  data/cache_torsion/limit0_INDEX_maxLigSizeNone_H0_recRad15.0_recMax24_esmEmbeddings3347065062/heterographs.pkl
+Number of complexes:  1
+radius protein: mean 35.130279541015625, std 0.0, max 35.130279541015625
+radius molecule: mean 5.209709644317627, std 0.0, max 5.209709644317627
+distance protein-mol: mean 38.568336486816406, std 0.0, max 38.568336486816406
+rmsd matching: mean 0.0, std 0.0, max 0
+HAPPENING | confidence model uses different type of graphs than the score model. Loading (or creating if not existing) the data for the confidence model now.
+Reading molecules and generating local structures with RDKit
+Reading language model embeddings.
+Generating graphs for ligands and proteins
+loading data from memory:  data/cache_torsion_allatoms/limit0_INDEX_maxLigSizeNone_H0_recRad15.0_recMax24_atomRad5_atomMax8_esmEmbeddings3347065062/heterographs.pkl
+Number of complexes:  1
+radius protein: mean 35.130279541015625, std 0.0, max 35.130279541015625
+radius molecule: mean 5.6186442375183105, std 0.0, max 5.6186442375183105
+distance protein-mol: mean 39.87144470214844, std 0.0, max 39.87144470214844
+rmsd matching: mean 0.0, std 0.0, max 0
+common t schedule [1.   0.95 0.9  0.85 0.8  0.75 0.7  0.65 0.6  0.55 0.5  0.45 0.4  0.35
+ 0.3  0.25 0.2  0.15 0.1  0.05]
+Size of test dataset:  1
+Failed for 0 complexes
+Skipped 0 complexes
+Results are in results/user_predictions_small

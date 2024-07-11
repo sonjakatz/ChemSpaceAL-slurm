@@ -1,0 +1,6 @@
+,smiles
+0,Cc1ccc(F)c(OCC(O)CSc2nnnn2C2CC2)c1
+1,N#Cc1cc(NC(=O)NCC2(c3ccccc3F)CC2)ccc1F
+2,Cc1onc(-c2c(F)cccc2Cl)c1NC(=O)Nc1ccc(F)cc1
+3,CCOc1cc2c(cc1OC)CCC1(CCN([C@H](C)c3ccc4c(c3)NC(=O)CO4)CC1)O2
+4,Cc1cc(Cl)c2cc(C(=O)NC3(c4noc(C)n4)CCCC3)n(C)c2c1

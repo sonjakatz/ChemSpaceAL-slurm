@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/41_docking_scoring.py", line 78, in <module>
+    ligand_scores = Scoring.score_ligands(config)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/ChemSpaceAL/Scoring.py", line 66, in score_ligands
+    for lig in os.listdir(config.cycle_temp_params["path_to_poses"])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/results/test/4_Scoring/binding_poses/model7_al0_ch1/'

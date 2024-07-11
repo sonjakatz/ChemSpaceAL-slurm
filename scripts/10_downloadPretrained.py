@@ -1,5 +1,10 @@
+import sys
+import subprocess
+import os
 
-base_path = "/home/sonja/PROJECTS/Kiefer/ChemSpaceAL-slurm/results/test/"
+OUTNAME = sys.argv[1]
+os.chdir('..')
+base_path = f"{os.getcwd()}/results/{OUTNAME}/"
 
 #@title Download (if you want) dataset/weights
 #@markdown note these files will be placed into appropriate folders created above
@@ -22,5 +27,9 @@ if downloadModelWeights:
 if downloadPCAweights:
   f1 = "3_Sampling/pca_weights/scaler_pca_combined_n120.pkl"
   script += f"curl -o {base_path}{f1} {remote_source}{f1}\n"
-with open("fetch.bash", "w") as f:
+with open(f"{base_path}downloadPretrained.bash", "w") as f:
   f.write(script)
+
+print("Downloading models...")
+print(f"{base_path}downloadPretrained.bash")
+subprocess.run(["bash",f"{base_path}downloadPretrained.bash"])

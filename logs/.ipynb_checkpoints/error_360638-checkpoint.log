@@ -1,0 +1,273 @@
+  0%|          | 0/20 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 29.71it/s]
+  0%|          | 0/201 [00:00<?, ?it/s]  0%|          | 1/201 [00:00<02:08,  1.56it/s]  1%|          | 2/201 [00:01<02:08,  1.55it/s]  1%|▏         | 3/201 [00:01<02:07,  1.56it/s]  2%|▏         | 4/201 [00:02<02:06,  1.56it/s]  2%|▏         | 5/201 [00:03<02:05,  1.56it/s]  3%|▎         | 6/201 [00:03<02:05,  1.55it/s]  3%|▎         | 7/201 [00:04<02:04,  1.55it/s]  4%|▍         | 8/201 [00:05<02:04,  1.55it/s]  4%|▍         | 9/201 [00:05<02:04,  1.55it/s]  5%|▍         | 10/201 [00:06<02:03,  1.55it/s]  5%|▌         | 11/201 [00:07<02:02,  1.55it/s]  6%|▌         | 12/201 [00:07<02:02,  1.55it/s]  6%|▋         | 13/201 [00:08<02:01,  1.55it/s]  7%|▋         | 14/201 [00:09<02:00,  1.55it/s]  7%|▋         | 15/201 [00:09<02:00,  1.55it/s]  8%|▊         | 16/201 [00:10<01:59,  1.55it/s]  8%|▊         | 17/201 [00:10<01:58,  1.55it/s]  9%|▉         | 18/201 [00:11<01:57,  1.55it/s]  9%|▉         | 19/201 [00:12<01:57,  1.56it/s] 10%|▉         | 20/201 [00:12<01:56,  1.56it/s] 10%|█         | 21/201 [00:13<01:55,  1.55it/s] 11%|█         | 22/201 [00:14<01:55,  1.56it/s] 11%|█▏        | 23/201 [00:14<01:54,  1.56it/s] 12%|█▏        | 24/201 [00:15<01:53,  1.56it/s] 12%|█▏        | 25/201 [00:16<01:53,  1.56it/s] 13%|█▎        | 26/201 [00:16<01:52,  1.56it/s] 13%|█▎        | 27/201 [00:17<01:51,  1.56it/s] 14%|█▍        | 28/201 [00:18<01:51,  1.56it/s] 14%|█▍        | 29/201 [00:18<01:50,  1.56it/s] 15%|█▍        | 30/201 [00:19<01:50,  1.55it/s] 15%|█▌        | 31/201 [00:19<01:49,  1.55it/s] 16%|█▌        | 32/201 [00:20<01:48,  1.55it/s] 16%|█▋        | 33/201 [00:21<01:48,  1.56it/s] 17%|█▋        | 34/201 [00:21<01:47,  1.56it/s] 17%|█▋        | 35/201 [00:22<01:46,  1.56it/s] 18%|█▊        | 36/201 [00:23<01:45,  1.56it/s] 18%|█▊        | 37/201 [00:23<01:44,  1.56it/s] 19%|█▉        | 38/201 [00:24<01:44,  1.56it/s] 19%|█▉        | 39/201 [00:25<01:43,  1.56it/s] 20%|█▉        | 40/201 [00:25<01:43,  1.56it/s] 20%|██        | 41/201 [00:26<01:42,  1.56it/s] 21%|██        | 42/201 [00:27<01:41,  1.56it/s] 21%|██▏       | 43/201 [00:27<01:41,  1.56it/s] 22%|██▏       | 44/201 [00:28<01:40,  1.56it/s] 22%|██▏       | 45/201 [00:28<01:40,  1.56it/s] 23%|██▎       | 46/201 [00:29<01:39,  1.56it/s] 23%|██▎       | 47/201 [00:30<01:38,  1.56it/s] 24%|██▍       | 48/201 [00:30<01:38,  1.56it/s] 24%|██▍       | 49/201 [00:31<01:37,  1.56it/s] 25%|██▍       | 50/201 [00:32<01:37,  1.56it/s] 25%|██▌       | 51/201 [00:32<01:36,  1.56it/s] 26%|██▌       | 52/201 [00:33<01:35,  1.56it/s] 26%|██▋       | 53/201 [00:34<01:35,  1.56it/s] 27%|██▋       | 54/201 [00:34<01:34,  1.56it/s] 27%|██▋       | 55/201 [00:35<01:33,  1.56it/s] 28%|██▊       | 56/201 [00:36<01:33,  1.55it/s] 28%|██▊       | 57/201 [00:36<01:32,  1.55it/s] 29%|██▉       | 58/201 [00:37<01:31,  1.56it/s] 29%|██▉       | 59/201 [00:37<01:30,  1.56it/s] 30%|██▉       | 60/201 [00:38<01:30,  1.56it/s] 30%|███       | 61/201 [00:39<01:29,  1.56it/s] 31%|███       | 62/201 [00:39<01:29,  1.56it/s] 31%|███▏      | 63/201 [00:40<01:28,  1.56it/s] 32%|███▏      | 64/201 [00:41<01:28,  1.55it/s] 32%|███▏      | 65/201 [00:41<01:27,  1.55it/s] 33%|███▎      | 66/201 [00:42<01:27,  1.54it/s] 33%|███▎      | 67/201 [00:43<01:26,  1.54it/s] 34%|███▍      | 68/201 [00:43<01:26,  1.54it/s] 34%|███▍      | 69/201 [00:44<01:26,  1.53it/s] 35%|███▍      | 70/201 [00:45<01:25,  1.52it/s] 35%|███▌      | 71/201 [00:45<01:25,  1.52it/s] 36%|███▌      | 72/201 [00:46<01:24,  1.52it/s] 36%|███▋      | 73/201 [00:47<01:24,  1.52it/s] 37%|███▋      | 74/201 [00:47<01:23,  1.52it/s] 37%|███▋      | 75/201 [00:48<01:23,  1.52it/s] 38%|███▊      | 76/201 [00:49<01:22,  1.52it/s] 38%|███▊      | 77/201 [00:49<01:21,  1.51it/s] 39%|███▉      | 78/201 [00:50<01:21,  1.51it/s] 39%|███▉      | 79/201 [00:51<01:21,  1.51it/s] 40%|███▉      | 80/201 [00:51<01:20,  1.51it/s] 40%|████      | 81/201 [00:52<01:19,  1.51it/s] 41%|████      | 82/201 [00:53<01:18,  1.51it/s] 41%|████▏     | 83/201 [00:53<01:18,  1.50it/s] 42%|████▏     | 84/201 [00:54<01:17,  1.50it/s] 42%|████▏     | 85/201 [00:55<01:17,  1.50it/s] 43%|████▎     | 86/201 [00:55<01:16,  1.51it/s] 43%|████▎     | 87/201 [00:56<01:15,  1.51it/s] 44%|████▍     | 88/201 [00:57<01:15,  1.51it/s] 44%|████▍     | 89/201 [00:57<01:14,  1.51it/s] 45%|████▍     | 90/201 [00:58<01:13,  1.51it/s] 45%|████▌     | 91/201 [00:59<01:13,  1.50it/s] 46%|████▌     | 92/201 [00:59<01:12,  1.50it/s] 46%|████▋     | 93/201 [01:00<01:12,  1.50it/s] 47%|████▋     | 94/201 [01:01<01:11,  1.49it/s] 47%|████▋     | 95/201 [01:01<01:11,  1.49it/s] 48%|████▊     | 96/201 [01:02<01:10,  1.49it/s] 48%|████▊     | 97/201 [01:03<01:10,  1.49it/s] 49%|████▉     | 98/201 [01:03<01:09,  1.48it/s] 49%|████▉     | 99/201 [01:04<01:09,  1.48it/s] 50%|████▉     | 100/201 [01:05<01:08,  1.47it/s] 50%|█████     | 101/201 [01:05<01:09,  1.45it/s] 51%|█████     | 102/201 [01:06<01:08,  1.45it/s] 51%|█████     | 103/201 [01:07<01:07,  1.45it/s] 52%|█████▏    | 104/201 [01:07<01:06,  1.46it/s] 52%|█████▏    | 105/201 [01:08<01:05,  1.46it/s] 53%|█████▎    | 106/201 [01:09<01:04,  1.47it/s] 53%|█████▎    | 107/201 [01:09<01:03,  1.47it/s] 54%|█████▎    | 108/201 [01:10<01:03,  1.47it/s] 54%|█████▍    | 109/201 [01:11<01:02,  1.48it/s] 55%|█████▍    | 110/201 [01:11<01:01,  1.49it/s] 55%|█████▌    | 111/201 [01:12<01:00,  1.49it/s] 56%|█████▌    | 112/201 [01:13<00:59,  1.49it/s] 56%|█████▌    | 113/201 [01:13<00:59,  1.49it/s] 57%|█████▋    | 114/201 [01:14<00:58,  1.50it/s] 57%|█████▋    | 115/201 [01:15<00:57,  1.51it/s] 58%|█████▊    | 116/201 [01:15<00:56,  1.51it/s] 58%|█████▊    | 117/201 [01:16<00:55,  1.51it/s] 59%|█████▊    | 118/201 [01:17<00:54,  1.51it/s] 59%|█████▉    | 119/201 [01:17<00:54,  1.51it/s] 60%|█████▉    | 120/201 [01:18<00:53,  1.51it/s] 60%|██████    | 121/201 [01:19<00:53,  1.51it/s] 61%|██████    | 122/201 [01:19<00:52,  1.51it/s] 61%|██████    | 123/201 [01:20<00:51,  1.51it/s] 62%|██████▏   | 124/201 [01:21<00:51,  1.51it/s] 62%|██████▏   | 125/201 [01:21<00:50,  1.51it/s] 63%|██████▎   | 126/201 [01:22<00:49,  1.51it/s] 63%|██████▎   | 127/201 [01:23<00:48,  1.51it/s] 64%|██████▎   | 128/201 [01:23<00:48,  1.52it/s] 64%|██████▍   | 129/201 [01:24<00:47,  1.52it/s] 65%|██████▍   | 130/201 [01:25<00:46,  1.52it/s] 65%|██████▌   | 131/201 [01:25<00:46,  1.52it/s] 66%|██████▌   | 132/201 [01:26<00:45,  1.52it/s] 66%|██████▌   | 133/201 [01:27<00:44,  1.53it/s] 67%|██████▋   | 134/201 [01:27<00:43,  1.53it/s] 67%|██████▋   | 135/201 [01:28<00:43,  1.53it/s] 68%|██████▊   | 136/201 [01:29<00:42,  1.53it/s] 68%|██████▊   | 137/201 [01:29<00:41,  1.53it/s] 69%|██████▊   | 138/201 [01:30<00:41,  1.53it/s] 69%|██████▉   | 139/201 [01:31<00:40,  1.53it/s] 70%|██████▉   | 140/201 [01:31<00:39,  1.54it/s] 70%|███████   | 141/201 [01:32<00:38,  1.55it/s] 71%|███████   | 142/201 [01:32<00:38,  1.55it/s] 71%|███████   | 143/201 [01:33<00:37,  1.55it/s] 72%|███████▏  | 144/201 [01:34<00:36,  1.55it/s] 72%|███████▏  | 145/201 [01:34<00:36,  1.55it/s] 73%|███████▎  | 146/201 [01:35<00:35,  1.55it/s] 73%|███████▎  | 147/201 [01:36<00:34,  1.55it/s] 74%|███████▎  | 148/201 [01:36<00:34,  1.54it/s] 74%|███████▍  | 149/201 [01:37<00:33,  1.55it/s] 75%|███████▍  | 150/201 [01:38<00:32,  1.55it/s] 75%|███████▌  | 151/201 [01:38<00:32,  1.55it/s] 76%|███████▌  | 152/201 [01:39<00:31,  1.55it/s] 76%|███████▌  | 153/201 [01:40<00:31,  1.54it/s] 77%|███████▋  | 154/201 [01:40<00:30,  1.54it/s] 77%|███████▋  | 155/201 [01:41<00:29,  1.54it/s] 78%|███████▊  | 156/201 [01:42<00:29,  1.54it/s] 78%|███████▊  | 157/201 [01:42<00:28,  1.55it/s] 79%|███████▊  | 158/201 [01:43<00:27,  1.55it/s] 79%|███████▉  | 159/201 [01:43<00:27,  1.55it/s] 80%|███████▉  | 160/201 [01:44<00:26,  1.55it/s] 80%|████████  | 161/201 [01:45<00:25,  1.54it/s] 81%|████████  | 162/201 [01:45<00:25,  1.54it/s] 81%|████████  | 163/201 [01:46<00:24,  1.55it/s] 82%|████████▏ | 164/201 [01:47<00:23,  1.54it/s] 82%|████████▏ | 165/201 [01:47<00:23,  1.54it/s] 83%|████████▎ | 166/201 [01:48<00:22,  1.54it/s] 83%|████████▎ | 167/201 [01:49<00:22,  1.54it/s] 84%|████████▎ | 168/201 [01:49<00:21,  1.54it/s] 84%|████████▍ | 169/201 [01:50<00:20,  1.54it/s] 85%|████████▍ | 170/201 [01:51<00:20,  1.54it/s] 85%|████████▌ | 171/201 [01:51<00:19,  1.54it/s] 86%|████████▌ | 172/201 [01:52<00:18,  1.54it/s] 86%|████████▌ | 173/201 [01:53<00:18,  1.54it/s] 87%|████████▋ | 174/201 [01:53<00:17,  1.54it/s] 87%|████████▋ | 175/201 [01:54<00:16,  1.54it/s] 88%|████████▊ | 176/201 [01:54<00:16,  1.54it/s] 88%|████████▊ | 177/201 [01:55<00:15,  1.54it/s] 89%|████████▊ | 178/201 [01:56<00:14,  1.54it/s] 89%|████████▉ | 179/201 [01:56<00:14,  1.53it/s] 90%|████████▉ | 180/201 [01:57<00:13,  1.54it/s] 90%|█████████ | 181/201 [01:58<00:12,  1.54it/s] 91%|█████████ | 182/201 [01:58<00:12,  1.54it/s] 91%|█████████ | 183/201 [01:59<00:11,  1.54it/s] 92%|█████████▏| 184/201 [02:00<00:11,  1.53it/s] 92%|█████████▏| 185/201 [02:00<00:10,  1.53it/s] 93%|█████████▎| 186/201 [02:01<00:09,  1.53it/s] 93%|█████████▎| 187/201 [02:02<00:09,  1.53it/s] 94%|█████████▎| 188/201 [02:02<00:08,  1.53it/s] 94%|█████████▍| 189/201 [02:03<00:07,  1.53it/s] 95%|█████████▍| 190/201 [02:04<00:07,  1.53it/s] 95%|█████████▌| 191/201 [02:04<00:06,  1.53it/s] 96%|█████████▌| 192/201 [02:05<00:05,  1.53it/s] 96%|█████████▌| 193/201 [02:06<00:05,  1.53it/s] 97%|█████████▋| 194/201 [02:06<00:04,  1.53it/s] 97%|█████████▋| 195/201 [02:07<00:03,  1.52it/s] 98%|█████████▊| 196/201 [02:08<00:03,  1.53it/s] 98%|█████████▊| 197/201 [02:08<00:02,  1.53it/s] 99%|█████████▊| 198/201 [02:09<00:01,  1.53it/s] 99%|█████████▉| 199/201 [02:09<00:01,  1.53it/s]100%|█████████▉| 200/201 [02:10<00:00,  1.53it/s]100%|██████████| 201/201 [02:11<00:00,  1.53it/s]100%|██████████| 201/201 [02:11<00:00,  1.53it/s]
+  0%|          | 0/201 [00:00<?, ?it/s]  0%|          | 1/201 [00:00<02:25,  1.38it/s]  1%|          | 2/201 [00:01<02:23,  1.38it/s]  1%|▏         | 3/201 [00:02<02:23,  1.38it/s]  2%|▏         | 4/201 [00:02<02:22,  1.38it/s]  2%|▏         | 5/201 [00:03<02:22,  1.38it/s]  3%|▎         | 6/201 [00:04<02:20,  1.38it/s]  3%|▎         | 7/201 [00:05<02:20,  1.38it/s]  4%|▍         | 8/201 [00:05<02:19,  1.39it/s]  4%|▍         | 9/201 [00:06<02:18,  1.39it/s]  5%|▍         | 10/201 [00:07<02:17,  1.39it/s]  5%|▌         | 11/201 [00:07<02:16,  1.39it/s]  6%|▌         | 12/201 [00:08<02:16,  1.39it/s]  6%|▋         | 13/201 [00:09<02:15,  1.39it/s]  7%|▋         | 14/201 [00:10<02:14,  1.39it/s]  7%|▋         | 15/201 [00:10<02:14,  1.38it/s]  8%|▊         | 16/201 [00:11<02:13,  1.39it/s]  8%|▊         | 17/201 [00:12<02:12,  1.39it/s]  9%|▉         | 18/201 [00:12<02:11,  1.39it/s]  9%|▉         | 19/201 [00:13<02:10,  1.39it/s] 10%|▉         | 20/201 [00:14<02:10,  1.39it/s] 10%|█         | 21/201 [00:15<02:09,  1.39it/s] 11%|█         | 22/201 [00:15<02:08,  1.39it/s] 11%|█▏        | 23/201 [00:16<02:07,  1.39it/s] 12%|█▏        | 24/201 [00:17<02:06,  1.40it/s] 12%|█▏        | 25/201 [00:18<02:06,  1.39it/s] 13%|█▎        | 26/201 [00:18<02:05,  1.39it/s] 13%|█▎        | 27/201 [00:19<02:05,  1.39it/s] 14%|█▍        | 28/201 [00:20<02:04,  1.39it/s] 14%|█▍        | 29/201 [00:20<02:03,  1.39it/s] 15%|█▍        | 30/201 [00:21<02:02,  1.39it/s] 15%|█▌        | 31/201 [00:22<02:01,  1.39it/s] 16%|█▌        | 32/201 [00:23<02:01,  1.39it/s] 16%|█▋        | 33/201 [00:23<02:00,  1.39it/s] 17%|█▋        | 34/201 [00:24<02:00,  1.39it/s] 17%|█▋        | 35/201 [00:25<01:59,  1.39it/s] 18%|█▊        | 36/201 [00:25<01:58,  1.39it/s] 18%|█▊        | 37/201 [00:26<01:57,  1.39it/s] 19%|█▉        | 38/201 [00:27<01:57,  1.39it/s] 19%|█▉        | 39/201 [00:28<01:56,  1.39it/s] 20%|█▉        | 40/201 [00:28<01:56,  1.39it/s] 20%|██        | 41/201 [00:29<01:55,  1.39it/s] 21%|██        | 42/201 [00:30<01:54,  1.39it/s] 21%|██▏       | 43/201 [00:30<01:53,  1.39it/s] 22%|██▏       | 44/201 [00:31<01:52,  1.39it/s] 22%|██▏       | 45/201 [00:32<01:51,  1.39it/s] 23%|██▎       | 46/201 [00:33<01:51,  1.39it/s] 23%|██▎       | 47/201 [00:33<01:50,  1.39it/s] 24%|██▍       | 48/201 [00:34<01:49,  1.39it/s] 24%|██▍       | 49/201 [00:35<01:49,  1.39it/s] 25%|██▍       | 50/201 [00:35<01:48,  1.39it/s] 25%|██▌       | 51/201 [00:36<01:48,  1.39it/s] 26%|██▌       | 52/201 [00:37<01:47,  1.39it/s] 26%|██▋       | 53/201 [00:38<01:46,  1.38it/s] 27%|██▋       | 54/201 [00:38<01:45,  1.39it/s] 27%|██▋       | 55/201 [00:39<01:45,  1.39it/s] 28%|██▊       | 56/201 [00:40<01:44,  1.39it/s] 28%|██▊       | 57/201 [00:41<01:43,  1.39it/s] 29%|██▉       | 58/201 [00:41<01:42,  1.39it/s] 29%|██▉       | 59/201 [00:42<01:42,  1.39it/s] 30%|██▉       | 60/201 [00:43<01:41,  1.39it/s] 30%|███       | 61/201 [00:43<01:40,  1.39it/s] 31%|███       | 62/201 [00:44<01:39,  1.39it/s] 31%|███▏      | 63/201 [00:45<01:39,  1.39it/s] 32%|███▏      | 64/201 [00:46<01:38,  1.38it/s] 32%|███▏      | 65/201 [00:46<01:38,  1.38it/s] 33%|███▎      | 66/201 [00:47<01:38,  1.37it/s] 33%|███▎      | 67/201 [00:48<01:38,  1.37it/s] 34%|███▍      | 68/201 [00:49<01:37,  1.37it/s] 34%|███▍      | 69/201 [00:49<01:36,  1.37it/s] 35%|███▍      | 70/201 [00:50<01:35,  1.37it/s] 35%|███▌      | 71/201 [00:51<01:34,  1.37it/s] 36%|███▌      | 72/201 [00:51<01:34,  1.37it/s] 36%|███▋      | 73/201 [00:52<01:33,  1.37it/s] 37%|███▋      | 74/201 [00:53<01:32,  1.37it/s] 37%|███▋      | 75/201 [00:54<01:32,  1.37it/s] 38%|███▊      | 76/201 [00:54<01:31,  1.36it/s] 38%|███▊      | 77/201 [00:55<01:30,  1.37it/s] 39%|███▉      | 78/201 [00:56<01:30,  1.36it/s] 39%|███▉      | 79/201 [00:57<01:29,  1.37it/s] 40%|███▉      | 80/201 [00:57<01:28,  1.37it/s] 40%|████      | 81/201 [00:58<01:27,  1.37it/s] 41%|████      | 82/201 [00:59<01:27,  1.37it/s] 41%|████▏     | 83/201 [00:59<01:26,  1.37it/s] 42%|████▏     | 84/201 [01:00<01:25,  1.37it/s] 42%|████▏     | 85/201 [01:01<01:25,  1.36it/s] 43%|████▎     | 86/201 [01:02<01:24,  1.36it/s] 43%|████▎     | 87/201 [01:02<01:23,  1.36it/s] 44%|████▍     | 88/201 [01:03<01:23,  1.36it/s] 44%|████▍     | 89/201 [01:04<01:22,  1.35it/s] 45%|████▍     | 90/201 [01:05<01:21,  1.35it/s] 45%|████▌     | 91/201 [01:05<01:21,  1.36it/s] 46%|████▌     | 92/201 [01:06<01:20,  1.35it/s] 46%|████▋     | 93/201 [01:07<01:19,  1.35it/s] 47%|████▋     | 94/201 [01:08<01:19,  1.35it/s] 47%|████▋     | 95/201 [01:08<01:18,  1.35it/s] 48%|████▊     | 96/201 [01:09<01:17,  1.35it/s] 48%|████▊     | 97/201 [01:10<01:17,  1.34it/s] 49%|████▉     | 98/201 [01:11<01:16,  1.34it/s] 49%|████▉     | 99/201 [01:11<01:16,  1.34it/s] 50%|████▉     | 100/201 [01:12<01:15,  1.33it/s] 50%|█████     | 101/201 [01:13<01:16,  1.31it/s] 51%|█████     | 102/201 [01:14<01:15,  1.31it/s] 51%|█████     | 103/201 [01:14<01:14,  1.32it/s] 52%|█████▏    | 104/201 [01:15<01:13,  1.33it/s] 52%|█████▏    | 105/201 [01:16<01:12,  1.33it/s] 53%|█████▎    | 106/201 [01:17<01:11,  1.33it/s] 53%|█████▎    | 107/201 [01:17<01:10,  1.33it/s] 54%|█████▎    | 108/201 [01:18<01:09,  1.34it/s] 54%|█████▍    | 109/201 [01:19<01:08,  1.34it/s] 55%|█████▍    | 110/201 [01:20<01:07,  1.34it/s] 55%|█████▌    | 111/201 [01:20<01:06,  1.35it/s] 56%|█████▌    | 112/201 [01:21<01:05,  1.35it/s] 56%|█████▌    | 113/201 [01:22<01:04,  1.36it/s] 57%|█████▋    | 114/201 [01:23<01:04,  1.36it/s] 57%|█████▋    | 115/201 [01:23<01:03,  1.36it/s] 58%|█████▊    | 116/201 [01:24<01:02,  1.36it/s] 58%|█████▊    | 117/201 [01:25<01:01,  1.36it/s] 59%|█████▊    | 118/201 [01:25<01:00,  1.36it/s] 59%|█████▉    | 119/201 [01:26<01:00,  1.37it/s] 60%|█████▉    | 120/201 [01:27<00:59,  1.36it/s] 60%|██████    | 121/201 [01:28<00:58,  1.37it/s] 61%|██████    | 122/201 [01:28<00:57,  1.37it/s] 61%|██████    | 123/201 [01:29<00:57,  1.37it/s] 62%|██████▏   | 124/201 [01:30<00:56,  1.37it/s] 62%|██████▏   | 125/201 [01:31<00:55,  1.37it/s] 63%|██████▎   | 126/201 [01:31<00:54,  1.37it/s] 63%|██████▎   | 127/201 [01:32<00:53,  1.37it/s] 64%|██████▎   | 128/201 [01:33<00:53,  1.37it/s] 64%|██████▍   | 129/201 [01:34<00:52,  1.37it/s] 65%|██████▍   | 130/201 [01:34<00:51,  1.37it/s] 65%|██████▌   | 131/201 [01:35<00:51,  1.37it/s] 66%|██████▌   | 132/201 [01:36<00:50,  1.37it/s] 66%|██████▌   | 133/201 [01:36<00:49,  1.38it/s] 67%|██████▋   | 134/201 [01:37<00:48,  1.38it/s] 67%|██████▋   | 135/201 [01:38<00:47,  1.38it/s] 68%|██████▊   | 136/201 [01:39<00:47,  1.38it/s] 68%|██████▊   | 137/201 [01:39<00:46,  1.38it/s] 69%|██████▊   | 138/201 [01:40<00:45,  1.38it/s] 69%|██████▉   | 139/201 [01:41<00:44,  1.39it/s] 70%|██████▉   | 140/201 [01:41<00:43,  1.39it/s] 70%|███████   | 141/201 [01:42<00:43,  1.39it/s] 71%|███████   | 142/201 [01:43<00:42,  1.39it/s] 71%|███████   | 143/201 [01:44<00:41,  1.40it/s] 72%|███████▏  | 144/201 [01:44<00:40,  1.40it/s] 72%|███████▏  | 145/201 [01:45<00:40,  1.40it/s] 73%|███████▎  | 146/201 [01:46<00:39,  1.40it/s] 73%|███████▎  | 147/201 [01:46<00:38,  1.40it/s] 74%|███████▎  | 148/201 [01:47<00:37,  1.40it/s] 74%|███████▍  | 149/201 [01:48<00:37,  1.40it/s] 75%|███████▍  | 150/201 [01:49<00:36,  1.39it/s] 75%|███████▌  | 151/201 [01:49<00:35,  1.40it/s] 76%|███████▌  | 152/201 [01:50<00:34,  1.40it/s] 76%|███████▌  | 153/201 [01:51<00:34,  1.40it/s] 77%|███████▋  | 154/201 [01:51<00:33,  1.40it/s] 77%|███████▋  | 155/201 [01:52<00:32,  1.40it/s] 78%|███████▊  | 156/201 [01:53<00:32,  1.40it/s] 78%|███████▊  | 157/201 [01:54<00:31,  1.41it/s] 79%|███████▊  | 158/201 [01:54<00:30,  1.41it/s] 79%|███████▉  | 159/201 [01:55<00:29,  1.41it/s] 80%|███████▉  | 160/201 [01:56<00:29,  1.40it/s] 80%|████████  | 161/201 [01:56<00:28,  1.40it/s] 81%|████████  | 162/201 [01:57<00:27,  1.40it/s] 81%|████████  | 163/201 [01:58<00:27,  1.40it/s] 82%|████████▏ | 164/201 [01:59<00:26,  1.40it/s] 82%|████████▏ | 165/201 [01:59<00:25,  1.40it/s] 83%|████████▎ | 166/201 [02:00<00:24,  1.40it/s] 83%|████████▎ | 167/201 [02:01<00:24,  1.40it/s] 84%|████████▎ | 168/201 [02:01<00:23,  1.41it/s] 84%|████████▍ | 169/201 [02:02<00:22,  1.41it/s] 85%|████████▍ | 170/201 [02:03<00:21,  1.41it/s] 85%|████████▌ | 171/201 [02:04<00:21,  1.41it/s] 86%|████████▌ | 172/201 [02:04<00:20,  1.41it/s] 86%|████████▌ | 173/201 [02:05<00:19,  1.41it/s] 87%|████████▋ | 174/201 [02:06<00:19,  1.41it/s] 87%|████████▋ | 175/201 [02:06<00:18,  1.41it/s] 88%|████████▊ | 176/201 [02:07<00:17,  1.41it/s] 88%|████████▊ | 177/201 [02:08<00:17,  1.41it/s] 89%|████████▊ | 178/201 [02:09<00:16,  1.40it/s] 89%|████████▉ | 179/201 [02:09<00:15,  1.40it/s] 90%|████████▉ | 180/201 [02:10<00:14,  1.41it/s] 90%|█████████ | 181/201 [02:11<00:14,  1.41it/s] 91%|█████████ | 182/201 [02:11<00:13,  1.41it/s] 91%|█████████ | 183/201 [02:12<00:12,  1.41it/s] 92%|█████████▏| 184/201 [02:13<00:12,  1.41it/s] 92%|█████████▏| 185/201 [02:14<00:11,  1.41it/s] 93%|█████████▎| 186/201 [02:14<00:10,  1.41it/s] 93%|█████████▎| 187/201 [02:15<00:09,  1.41it/s] 94%|█████████▎| 188/201 [02:16<00:09,  1.41it/s] 94%|█████████▍| 189/201 [02:16<00:08,  1.41it/s] 95%|█████████▍| 190/201 [02:17<00:07,  1.40it/s] 95%|█████████▌| 191/201 [02:18<00:07,  1.41it/s] 96%|█████████▌| 192/201 [02:18<00:06,  1.41it/s] 96%|█████████▌| 193/201 [02:19<00:05,  1.41it/s] 97%|█████████▋| 194/201 [02:20<00:04,  1.41it/s] 97%|█████████▋| 195/201 [02:21<00:04,  1.41it/s] 98%|█████████▊| 196/201 [02:21<00:03,  1.41it/s] 98%|█████████▊| 197/201 [02:22<00:02,  1.41it/s] 99%|█████████▊| 198/201 [02:23<00:02,  1.41it/s] 99%|█████████▉| 199/201 [02:23<00:01,  1.40it/s]100%|█████████▉| 200/201 [02:24<00:00,  1.41it/s]100%|██████████| 201/201 [02:25<00:00,  1.41it/s]100%|██████████| 201/201 [02:25<00:00,  1.38it/s]
+/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/torus.py:38: RuntimeWarning: invalid value encountered in divide
+  score_ = grad(x, sigma[:, None], N=100) / p_
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+  5%|▌         | 1/20 [19:23<6:08:29, 1163.68s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 29.77it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 10%|█         | 2/20 [19:53<2:29:04, 496.89s/it]   0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.42it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 15%|█▌        | 3/20 [20:22<1:20:10, 282.98s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.37it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 20%|██        | 4/20 [20:50<48:40, 182.51s/it]    0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.42it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 25%|██▌       | 5/20 [21:18<31:43, 126.89s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 31.04it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 30%|███       | 6/20 [21:47<21:46, 93.31s/it]   0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 29.15it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 35%|███▌      | 7/20 [22:15<15:35, 71.96s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.87it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 40%|████      | 8/20 [22:42<11:34, 57.90s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.11it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 45%|████▌     | 9/20 [23:10<08:53, 48.49s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 29.76it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 50%|█████     | 10/20 [23:39<07:02, 42.26s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 29.80it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 55%|█████▌    | 11/20 [24:07<05:43, 38.12s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.06it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 60%|██████    | 12/20 [24:35<04:40, 35.03s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 31.26it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 65%|██████▌   | 13/20 [25:03<03:49, 32.74s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.21it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 70%|███████   | 14/20 [25:31<03:08, 31.39s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.86it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 75%|███████▌  | 15/20 [25:59<02:31, 30.23s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 31.61it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 80%|████████  | 16/20 [26:26<01:57, 29.46s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.27it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 85%|████████▌ | 17/20 [26:54<01:27, 29.08s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.97it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 90%|█████████ | 18/20 [27:22<00:57, 28.59s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 29.20it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+ 95%|█████████▌| 19/20 [27:50<00:28, 28.39s/it]  0%|          | 0/1 [00:00<?, ?it/s]/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain A is discontinuous at line 2571.
+  warnings.warn(
+/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/StructureBuilder.py:100: PDBConstructionWarning: WARNING: Chain B is discontinuous at line 2707.
+  warnings.warn(
+100%|██████████| 1/1 [00:00<00:00, 30.12it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 16, in <module>
+    from datasets.pdbbind import PDBBind
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 22, in <module>
+    from utils.utils import read_strings_from_txt
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/utils/utils.py", line 17, in <module>
+    from spyrmsd import rmsd, molecule
+ModuleNotFoundError: No module named 'spyrmsd'
+100%|██████████| 20/20 [28:18<00:00, 28.30s/it]100%|██████████| 20/20 [28:18<00:00, 84.92s/it]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/41_docking_scoring.py", line 78, in <module>
+    ligand_scores = Scoring.score_ligands(config)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/ChemSpaceAL/Scoring.py", line 66, in score_ligands
+    for lig in os.listdir(config.cycle_temp_params["path_to_poses"])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/results/test/4_Scoring/binding_poses/model7_al0_ch1/'

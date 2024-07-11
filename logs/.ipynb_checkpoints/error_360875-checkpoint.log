@@ -1,0 +1,48 @@
+  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/esm_embedding_preparation.py", line 56, in <module>
+    structure = biopython_parser.get_structure('random_id', file_path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/PDBParser.py", line 85, in get_structure
+    with as_handle(file) as handle:
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/File.py", line 72, in as_handle
+    with open(handleish, mode, **kwargs) as fp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/results/fullIter/4_Scoring/binding_targets/6O56.pdb'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.37it/s]100%|██████████| 1/1 [00:00<00:00,  7.36it/s]
+loading complexes:   0%|          | 0/1 [00:00<?, ?it/s]loading complexes:   0%|          | 0/1 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/inference.py", line 81, in <module>
+    test_dataset = PDBBind(transform=None, root='', protein_path_list=protein_path_list, ligand_descriptions=ligand_descriptions,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 102, in __init__
+    self.inference_preprocessing()
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 271, in inference_preprocessing
+    for t in map(self.get_complex, zip(self.protein_path_list, lm_embeddings_chains_all, ligands_list, self.ligand_descriptions)):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/pdbbind.py", line 287, in get_complex
+    rec_model = parse_pdb_from_path(name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/content/DiffDock/datasets/process_mols.py", line 147, in parse_pdb_from_path
+    structure = biopython_parser.get_structure('random_id', path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/PDB/PDBParser.py", line 85, in get_structure
+    with as_handle(file) as handle:
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/Bio/File.py", line 72, in as_handle
+    with open(handleish, mode, **kwargs) as fp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/results/fullIter/4_Scoring/binding_targets/6O56.pdb'
+100%|██████████| 1/1 [00:55<00:00, 55.54s/it]100%|██████████| 1/1 [00:55<00:00, 55.54s/it]
+Traceback (most recent call last):
+  File "/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/scripts/41_docking_scoring_iter.py", line 43, in <module>
+    ligand_scores = Scoring.score_ligands(config)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/trinity/home/skatz/miniconda3/envs/env_chemspace_slurm_v2/lib/python3.11/site-packages/ChemSpaceAL/Scoring.py", line 66, in score_ligands
+    for lig in os.listdir(config.cycle_temp_params["path_to_poses"])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/trinity/home/skatz/PROJECTS/ChemSpaceAL-slurm/results/fullIter/4_Scoring/binding_poses/model7_al0_ch1/'

@@ -1,0 +1,8 @@
+generated: 64
+valid: 64
+unique: 30
+validity: 100.0
+% unique (rel. to generated): 46.875
+% unique (rel. to valid): 46.875
+% novelty (rel. to train set): 90.0
+% novelty (rel. to train+AL sets): 90.0

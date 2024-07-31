@@ -27,12 +27,12 @@ dic_config = dict(
     ####
     generation__target_criterion="force_number_filtered",
     generation__force_filter="ADMET+FGs",
-    generation__target_number=1,
+    generation__target_number=100_000,
     ####
     ####
-    sampling__n_clusters=1,      ### default: 10         
-    sampling__samples_per_cluster=1,         ## default: 2  
-    sampling__pca_fname="scaler_pca_combined_n120.pkl",
+    sampling__n_clusters=250,      ### default: 10         
+    sampling__samples_per_cluster=4,         ## default: 2  
+    sampling__pca_fname="scaler_pca_combined_n120_v2.pkl",
     ####
     scoring__protein=f"{PROTEIN_ID}.pdb",      ## 6O56
     #############

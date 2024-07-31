@@ -25,13 +25,15 @@ config = initConfig(config_path)
 
 ## add `active_learning_parameters` here and not in config.json because otherwise paths are somehow fucked 
 config.set_active_learning_parameters(
-    selection_mode="threshold", probability_mode="linear", threshold=11, training_size=10, n_replicate=False)
+    selection_mode="threshold", probability_mode="linear", threshold=25, training_size=10_000, n_replicate=False)
 
 ### Construct new training set & load
 ''' 
 If there is a timeout on the cluster, it will fail here (due to `do_sampling=True`, but wont give an error message, it will simply be stuck)
 '''
 ALConstruction.construct_al_training_set(config=config, do_sampling=True)
+ALConstruction.translate_dataset_for_al(config)
+
 
 
 '''
@@ -59,7 +61,7 @@ Now in our version:
     - Will load AL training set from 5_ActiveLearning/training_sets/model7_al0_ch1.csv
 '''
 al_ds = Dataset.load_data(config=config, mode="Active Learning")
-config.set_training_parameters(mode="Active Learning", epochs=1)
+config.set_training_parameters(mode="Active Learning", epochs=10)  #changed to 0
 
 ### Fine-tune model
 model, trainer = Training.train_GPT(

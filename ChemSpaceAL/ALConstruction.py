@@ -230,6 +230,7 @@ def construct_al_training_set(config: Config, do_sampling: bool = True) -> pd.Da
     combined.to_csv(config.cycle_temp_params["path_to_al_training_set"])
     return combined
 
+
 def get_mol(smile_string:str):
     mol = Chem.MolFromSmiles(smile_string)
     if mol is None:

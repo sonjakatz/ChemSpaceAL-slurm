@@ -25,7 +25,7 @@ if downloadModelWeights:
   script += f"curl -o {base_path}{f1} {remote_source}{f1}\n"
   script += f"curl -o {base_path}{f2} {remote_source}{f2}\n"
 if downloadPCAweights:
-  f1 = "3_Sampling/pca_weights/scaler_pca_combined_n120.pkl"
+  f1 = "3_Sampling/pca_weights/scaler_pca_combined_n120_v2.pkl"
   script += f"curl -o {base_path}{f1} {remote_source}{f1}\n"
 with open(f"{base_path}downloadPretrained.bash", "w") as f:
   f.write(script)

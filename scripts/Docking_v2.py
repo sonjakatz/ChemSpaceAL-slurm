@@ -82,7 +82,7 @@ def get_top_poses(ligands_csv: str, protein_pdb_path: str, save_pose_path: str):
 
         subprocess.run(['python', 'esm/scripts/extract.py', "esm2_t33_650M_UR50D", "data/prepared_for_esm.fasta", "data/esm2_output", "--repr_layers", "33", "--include", "per_tok", "--truncation_seq_length", "30000"])
 
-        subprocess.run(['python', 'inference.py', "--protein_ligand_csv", "../input_protein_ligand.csv", "--out_dir", "results/user_predictions_small", "--inference_steps", "20", "--samples_per_complex", "10", "--batch_size", "6"])
+        subprocess.run(['python', 'inference.py', "--protein_ligand_csv", "../input_protein_ligand.csv", "--out_dir", "results/user_predictions_small", "--inference_steps", "20", "--samples_per_complex", "10", "--batch_size", "9"])
         
         #os.system("datasets/esm_embedding_preparation.py --protein_ligand_csv /content/input_protein_ligand.csv --out_file /content/DiffDock/data/prepared_for_esm.fasta")
 
